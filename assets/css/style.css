@@ -311,7 +311,7 @@ ul {
 
 /* 04 - Hero Section */
 .hero-section {
-    padding: 68px 0;
+    padding: 45px 0;
     position: relative;
     overflow: hidden;
 }
@@ -411,8 +411,8 @@ body .body-overlay {
 
 /* 8 - Resume */
 .resume-area {
-    padding-top: 90px;
-    padding-bottom: 90px;
+    padding-top: 45px;
+    padding-bottom: 45px;
 }
 .resume-area .resume-content .resume-timeline .item {
     position: relative;
