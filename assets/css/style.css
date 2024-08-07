@@ -260,6 +260,10 @@ ul {
     display: block;
     margin-bottom: 56px;
 }
+.me{
+    border: 3px solid;
+    background-color: #607D8B;
+}
 .left-sidebar .sidebar-header {
     margin-bottom: 65px;
 }
